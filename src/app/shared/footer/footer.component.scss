@@ -1,0 +1,38 @@
+
+
+.footer-wrap {
+    position: sticky;
+    top: 0;
+    background: #fd7e14;
+    padding: 20px;
+    box-shadow: 0 11px 30px -25px black;
+    line-height: 30px;
+    
+  
+
+  
+  .left {
+    margin-right: auto;
+    text-align: center;
+    color: white;
+  }
+  .right {
+    margin-left: auto;
+  }
+}
+
+.address{
+    display: flex;
+    color: white;
+    .address1{
+        margin-right: auto;
+    }
+    .address2{
+        margin-left: auto;
+    }
+}
+
+.policy{
+    display: flex;
+    background-color: #fd7e14;
+}
